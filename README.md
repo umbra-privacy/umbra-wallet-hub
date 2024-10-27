@@ -20,17 +20,13 @@ During the early stages of the Aztec ecosystem, we maintain Umbra's core impleme
 - 🌐 Seamless dApp interactions
 - 💫 Intuitive user interface
 - 🔐 Secure key management
-- 🚀 Fast transaction processing
 - 💎 Support for both private and public transactions
 - 🤝 Account abstraction support
-- 🎯 Integrated fee management
 
 ## Download
 
 Get the latest version of Umbra Wallet:
 
-- [Chrome Web Store](#) (Coming Soon)
-- [Firefox Add-ons](#) (Coming Soon)
 - [Latest Release](https://github.com/umbra-privacy/umbra-wallet-hub/releases/tag/0.012)
 
 ## User Support
@@ -59,8 +55,6 @@ Found a bug or have a feature request? Please create an issue here
 
 Umbra Wallet's core extension code is maintained as a private repository to ensure the highest security standards and quality control. However, we offer:
 
-- 🤝 Integration documentation for dApp developers
-- 📦 SDK for building on top of Umbra
 - 💻 API documentation
 
 For access to specific components or collaboration inquiries, please contact us at satyamsgsits1994@gmail.com
@@ -71,7 +65,6 @@ Security is our top priority. We employ:
 
 - Regular security audits
 - Bug bounty program
-- Penetration testing
 - Best practices in key management
 
 Read our [privacy policy](https://umbra-landing-page.vercel.app/privacy-policy) for more details.

@@ -21,7 +21,6 @@ Umbra Wallet is a privacy-focused browser extension wallet built specifically fo
 - Built specifically for Aztec Network
 - Privacy-first design with public/private transaction support
 - Intuitive user interface
-- Integrated account abstraction
 - Focus on user privacy and security
 
 ### Is Umbra Wallet free to use?
