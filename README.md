@@ -44,8 +44,8 @@ Found a bug or have a feature request? Please create an issue here
 ### 📚 Documentation
 
 - [User Guide](./docs/user-guide.md)
-- [FAQ](./docs/faq.md)
-<!-- - [Security Best Practices](./docs/security.md) -->
+<!-- - [FAQ](./docs/faq.md)
+- [Security Best Practices](./docs/security.md) -->
 
 ### 💬 Community & Support
 
@@ -76,9 +76,6 @@ Security is our top priority. We employ:
 
 Read our [privacy policy](https://umbra-landing-page.vercel.app/privacy-policy) for more details.
 
-## License
-
-Umbra Wallet Hub repository is licensed under [MIT License](./LICENSE).
 Note: This repository serves as a public interface for Umbra Wallet. The core wallet implementation remains proprietary.
 
 ---
