@@ -44,8 +44,8 @@ Found a bug or have a feature request? Please create an issue here
 ### 📚 Documentation
 
 - [User Guide](./docs/user-guide.md)
-<!-- - [FAQ](./docs/faq.md)
-- [Security Best Practices](./docs/security.md) -->
+- [FAQ](./docs/faq.md)
+<!-- - [Security Best Practices](./docs/security.md) -->
 
 ### 💬 Community & Support
 
