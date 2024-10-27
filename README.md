@@ -2,7 +2,9 @@
 
 Welcome to the official hub for Umbra Wallet, a privacy-first browser extension wallet for the Aztec Network.
 
-![Umbra Wallet Banner](https://umbra-landing-page.vercel.app/animation)
+<div align="center">
+  <img src="./assets/logo.svg" alt="logo">
+</div>
 
 ## About Umbra
 
@@ -29,28 +31,29 @@ Get the latest version of Umbra Wallet:
 
 - [Chrome Web Store](#) (Coming Soon)
 - [Firefox Add-ons](#) (Coming Soon)
-- [Latest Release](../../releases)
+- [Latest Release](https://github.com/umbra-privacy/umbra-wallet-hub/releases/tag/0.012)
 
 ## User Support
 
 ### 📝 Issue Reporting
 
-Found a bug or have a feature request? Please create an issue using our templates:
-- [Bug Report](../../issues/new?template=bug_report.md)
-- [Feature Request](../../issues/new?template=feature_request.md)
+Found a bug or have a feature request? Please create an issue here
 
-### 📚 Documentation
+- [Bug Report / Feature Request](https://github.com/umbra-privacy/umbra-wallet-hub/issues/new)
+
+<!-- ### 📚 Documentation
 
 - [User Guide](./docs/user-guide.md)
 - [FAQ](./docs/faq.md)
-- [Security Best Practices](./docs/security.md)
+- [Security Best Practices](./docs/security.md) -->
 
 ### 💬 Community & Support
 
-- [Discord Server](#)
-- [Telegram Group](#)
-- Email: support@umbrawallet.com
-- Twitter: [@UmbraWallet](#)
+<!-- - [Discord Server](#)
+- [Telegram Group](#) -->
+
+- Email: satyamsgsits1994@gmail.com
+<!-- - Twitter: [@UmbraWallet](#) -->
 
 ## For Developers
 
@@ -60,7 +63,7 @@ Umbra Wallet's core extension code is maintained as a private repository to ensu
 - 📦 SDK for building on top of Umbra
 - 💻 API documentation
 
-For access to specific components or collaboration inquiries, please contact us at developers@umbrawallet.com
+For access to specific components or collaboration inquiries, please contact us at satyamsgsits1994@gmail.com
 
 ## Security
 
@@ -71,7 +74,7 @@ Security is our top priority. We employ:
 - Penetration testing
 - Best practices in key management
 
-Read our [security policy](./SECURITY.md) for more details.
+Read our [privacy policy](https://umbra-landing-page.vercel.app/privacy-policy) for more details.
 
 ## License
 
